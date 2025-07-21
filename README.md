@@ -27,7 +27,7 @@
   <li>Import the MySQL database (create from provided .php files or request SQL file).</li>
   <li>Start Apache and MySQL from XAMPP.</li>
   <li>Open your browser and go to:
-      <a href='http://localhost/Old_Age_Home-main/index.html'>http://localhost/Old_Age_Home-main/index.html</a></li>
+      <a href='http://localhost/index.html'>http://localhost/index.html</a></li>
 </ol>
 <h3>Important Pages</h3>
 <ul>
@@ -46,8 +46,8 @@
 <p>For any questions or feedback, please contact us at Issues Pages.</p>
 <h2>Authors</h2>
 <ul>
-  <li><a href="">Adithi N</li>
-  <li><a href="">Shreya S Rao</li>
+  <li><a href="https://github.com/AdithiNgatty">Adithi N</li>
+  <li><a href="https://github.com/shreyarao515">Shreya S Rao</li>
 </ul>
 <hr>
 The project was developed by the above contributors.For more information visit the <a href="https://github.com/AdithiNgatty/Old-Age-Management-System"> REPOSITORY</a>
