@@ -50,4 +50,4 @@
   <li><a href="">Shreya S Rao</li>
 </ul>
 <hr>
-The project was developed by the above contributors.For more information visit the <a href=""> REPOSITORY</a>
+The project was developed by the above contributors.For more information visit the <a href="https://github.com/AdithiNgatty/Old-Age-Management-System"> REPOSITORY</a>
